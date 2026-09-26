@@ -1,6 +1,6 @@
 # Ginger
 
-Private team project based on the `codex-advanced-patterns` branch of
+Hackathon project based on the `codex-advanced-patterns` branch of
 [openai-on-aws/workshop-codex](https://github.com/openai-on-aws/workshop-codex),
 starter commit `542c3d5`. The original code and documentation licenses are included.
 

@@ -1,6 +1,6 @@
 # Ginger
 
-Private team project for the OpenAI on AWS hackathon, based on the AWS workshop starter.
+Hackathon project for OpenAI on AWS, based on the AWS workshop starter.
 
 See [HACKATHON.md](HACKATHON.md) for local setup and workshop Codex instructions.
 
