@@ -1,4 +1,4 @@
-# OpenAI AWS hackathon
+# Ginger
 
 Private team project based on the `codex-advanced-patterns` branch of
 [openai-on-aws/workshop-codex](https://github.com/openai-on-aws/workshop-codex),

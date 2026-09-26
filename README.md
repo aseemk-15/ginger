@@ -1,6 +1,8 @@
-# Workshop with OpenAI on AWS
+# Ginger
 
-Hands-on workshop for building and deploying OpenAI-powered applications on AWS.
+Private team project for the OpenAI on AWS hackathon, based on the AWS workshop starter.
+
+See [HACKATHON.md](HACKATHON.md) for local setup and workshop Codex instructions.
 
 > This project is under active development.
 
